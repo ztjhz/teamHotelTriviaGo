@@ -1,4 +1,5 @@
 # Team Hotel Trivia Go
+
 SMU LIT Hackathon 2022
 
 We are a team of 6 students from SMU and NTU, studying Law and Computer Science.
@@ -8,6 +9,14 @@ We are a team of 6 students from SMU and NTU, studying Law and Computer Science.
 - [Ong Tsien Jin | NTU Computer Science](https://github.com/TsienJin)
 - [Ramasamy Vignesh | SMU Computer Information Systems](https://github.com/v1ghn35h)
 - [Toh Jing Hua | NTU Computer Science](https://github.com/ztjhz)
+
+***
+
+Website: https://team-hotel-trivia-go.vercel.app/
+
+Demo: https://youtu.be/ePtYqfwluSI
+
+Devpost: https://youtu.be/ePtYqfwluSIvpost: https://devpost.com/software/hotel-trivia-go
 
 ***
 
