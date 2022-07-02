@@ -16,7 +16,7 @@ Website: https://team-hotel-trivia-go.vercel.app/
 
 Demo: https://youtu.be/ePtYqfwluSI
 
-Devpost: https://youtu.be/ePtYqfwluSIvpost: https://devpost.com/software/hotel-trivia-go
+Devpost: https://devpost.com/software/hotel-trivia-go
 
 ***
 
