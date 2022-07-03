@@ -1,5 +1,8 @@
 # Team Hotel Trivia Go
 
+![First place](https://img.shields.io/badge/First%20Place-brightgreen?logo=champion)
+![Most Innovative Award](https://img.shields.io/badge/-Most%20Innovative%20Award-blue)
+
 SMU LIT Hackathon 2022
 
 We are a team of 6 students from SMU and NTU, studying Law and Computer Science.
